@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raushan2037
-- 👀 I’m interested in coding & buid skills
+- 👀 I’m interested in coding & Build skills
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
